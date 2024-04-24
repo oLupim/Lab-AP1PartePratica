@@ -1,0 +1,14 @@
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\bin\Debug\net8.0\AP1pratica.exe
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\bin\Debug\net8.0\AP1pratica.deps.json
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\bin\Debug\net8.0\AP1pratica.runtimeconfig.json
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\bin\Debug\net8.0\AP1pratica.dll
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\bin\Debug\net8.0\AP1pratica.pdb
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\obj\Debug\net8.0\AP1pratica.GeneratedMSBuildEditorConfig.editorconfig
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\obj\Debug\net8.0\AP1pratica.AssemblyInfoInputs.cache
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\obj\Debug\net8.0\AP1pratica.AssemblyInfo.cs
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\obj\Debug\net8.0\AP1pratica.csproj.CoreCompileInputs.cache
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\obj\Debug\net8.0\AP1pratica.dll
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\obj\Debug\net8.0\refint\AP1pratica.dll
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\obj\Debug\net8.0\AP1pratica.pdb
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\obj\Debug\net8.0\AP1pratica.genruntimeconfig.cache
+D:\[FACULDADE]\Laboratório de Programação\AP1pratica\obj\Debug\net8.0\ref\AP1pratica.dll
